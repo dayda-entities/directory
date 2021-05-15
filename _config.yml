@@ -1,0 +1,16 @@
+title: Dayda
+name: Directory
+description: Making data more discoverable and usable.
+about: This is the about the entity.
+source_url: http://example.com
+source_contact_type: general
+source_phone: +1 555-555-5555
+source_email: info@example.com
+source_catalog: data.gov
+profile_pic: /assets/img/profile.png
+favicon: /assets/img/favicon.png
+url: http://directory.dayda.org
+encoding: utf-8
+paginate: 10
+paginate_path: /page:num/
+markdown: kramdown
