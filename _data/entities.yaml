@@ -1,7 +1,7 @@
 {
   "1149ee63-2fff-494e-82e5-9aace9d3b3bf": {
     "name": "City of New York",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Seal_of_New_York.svg/175px-Seal_of_New_York.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-new-york.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of New York, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -17,12 +17,12 @@
     "org": "city-of-new-york",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "143529f7-2eef-4a07-b227-93ac9e84fad8": {
     "name": "Department of the Interior",
-    "profile_pic": "https://www.doi.gov/sites/doi.opengov.ibmcloud.com/themes/custom/doi_gov/logo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-the-interior.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Interior, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -38,12 +38,12 @@
     "org": "doi-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "f4ca4614-8901-409b-8553-2e994ad10023": {
     "name": "National Aeronautics and Space Administration",
-    "profile_pic": "http://polargateways2008.gsfc.nasa.gov/profile_pics/LOGO_2in/NASA_2.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/national-aeronautics-and-space-administration.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from National Aeronautics and Space Administration (NASA), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -59,12 +59,12 @@
     "org": "nasa-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "aa795a1b-5fbb-46d1-b9f2-8b86e1e48bef": {
     "name": "City of Los Angeles",
-    "profile_pic": "https://www.governmentjobs.com/AgencyPages/lacity/agencyImages/download/logo%20no%20back.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-los-angeles.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Los Angeles, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -80,12 +80,12 @@
     "org": "city-of-los-angeles",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "dde3fc99-e074-41cf-a843-14aa9c777889": {
     "name": "State of New York",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Seal_of_New_York_%28state%29.svg/176px-Seal_of_New_York_%28state%29.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-new-york.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of New York, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -101,12 +101,12 @@
     "org": "state-of-new-york",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "5f4f1195-e770-4a2a-8f75-195cd98860ce": {
     "name": "National Oceanic and Atmospheric Administration",
-    "profile_pic": "https://fortress.wa.gov/dfw/score/score/profile_pics/noaa_logo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/national-oceanic-and-atmospheric-administration.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the National Oceanic and Atmospheric Administration (NOAA), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -122,12 +122,12 @@
     "org": "noaa-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "bf49a9d8-a23d-41a7-af79-53d21d5c0c6e": {
     "name": "Networking and Information Technology Research and Development",
-    "profile_pic": "https://www.nitrd.gov/profile_pics/NITRD-logo.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/networking-and-information-technology-research-and-development.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Networking and Information Technology Research and Development, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -143,12 +143,12 @@
     "org": "nitrd-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "fb3131aa-ef06-4a00-ad84-67d93a71d7e3": {
     "name": "US Census Bureau",
-    "profile_pic": "http://www.census.gov/main/img/home/CensusLogo-white.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/us-census-bureau.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the US Census Bureau, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -164,12 +164,12 @@
     "org": "census-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "1a128ac1-72ce-4027-b46d-a73862031b04": {
     "name": "Department of Veterans Affairs",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/va.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-veterans-affairs.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Veterans Affairs (VA), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -185,12 +185,12 @@
     "org": "va-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "82b85475-f85d-404a-b95b-89d1a42e9f6b": {
     "name": "U.S. Environmental Protection Agency",
-    "profile_pic": "http://edg.epa.gov/EPALogo.svg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/us-environmental-protection-agency.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the U.S. Environmental Protection Agency (EPA), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -201,17 +201,17 @@
     "source_email": "info@example.com",
     "source_catalog": "data.gov",
     "favicon": "/assets/img/favicon.png",
-    "url": "http://u.s.-environmental-protection-agency.dayda.org",
+    "url": "http://us-environmental-protection-agency.dayda.org",
     "slug": "us-environmental-protection-agency",
     "org": "epa-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "57d66334-c55a-4d71-8c4e-8dd1055f5354": {
     "name": "US Agency for International Development",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/usaid.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/us-agency-for-international-development.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the US Agency for International Development (USAID), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -227,12 +227,12 @@
     "org": "us-agency-for-international-development",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "2ea36261-b7ad-4018-92fd-5b1cba9e9fdc": {
     "name": "US Geological Survey",
-    "profile_pic": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/us-geological-survey.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the U.S. Geological Survey, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -248,12 +248,12 @@
     "org": "usaid-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "217e855b-cd64-4ebc-958b-abbbb0f57ac2": {
     "name": "Department of Education",
-    "profile_pic": "https://www.ed.gov/sites/default/files/logo.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-education.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Education, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -269,12 +269,12 @@
     "org": "ed-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "11e6e64e-9478-4c25-b0cc-3ab685f0e0e5": {
     "name": "National Science Foundation",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/nsf.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/national-science-foundation.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the National Science Foundation (NSF), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -290,12 +290,12 @@
     "org": "nsf-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "c549d5ce-2b93-4397-ab76-aa2b31d9983a": {
     "name": "Department of Transportation",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/8/81/US_DOT_Triskelion.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-transportation.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Transportation (DOT), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -311,12 +311,12 @@
     "org": "dot-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "ed01ec43-dcbc-4772-8e20-4c90b457a7a7": {
     "name": "State of Alaska",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/1200px-State_Seal_of_Alaska.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-alaska.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of Alaska, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -332,12 +332,12 @@
     "org": "state-of-alaska",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "7ae8518f-b54f-439a-b63f-fe137bc6faf2": {
     "name": "Social Security Administration",
-    "profile_pic": "https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/07/ssa.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/social-security-administration.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Social Security Administration (SSA), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -353,12 +353,12 @@
     "org": "ssa-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "7f8ee588-32a3-4b6c-b435-d6603c91dbcc": {
     "name": "Department of Housing and Urban Development",
-    "profile_pic": "http://www.foia.gov/profile_pics/logo-hud.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-housing-and-urban-development.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Housing and Urban Development (HUD), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -374,12 +374,12 @@
     "org": "hud-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "352b4532-793d-4075-a03f-05b778a3c43a": {
     "name": "Department of Agriculture",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USDA_logo.svg/140px-USDA_logo.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-agriculture.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Agriculture, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -395,12 +395,12 @@
     "org": "usda-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "1f2ebc13-fc03-4bcd-b2c0-dad0bb510b65": {
     "name": "Department of Energy",
-    "profile_pic": "http://energy.gov/sites/prod/files/styles/profile_piclink/public/DoE-Logo.jpeg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-energy.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Energy, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -416,12 +416,12 @@
     "org": "doe-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "9a9b5c49-8106-430b-b214-4f2e9089ca0e": {
     "name": "Nuclear Regulatory Commission",
-    "profile_pic": "http://www.nrc.gov/admin/img/logo-nrc-banner.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/nuclear-regulatory-commission.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Nuclear Regulatory Commission, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -437,12 +437,12 @@
     "org": "nrc-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "97ae80aa-2507-4920-808f-99a45dc5ef27": {
     "name": "Department of Justice",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/justice.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-justice.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Justice (DOJ), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -458,12 +458,12 @@
     "org": "doj-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "2c2fc21f-21d0-4450-af01-cf8c69b44156": {
     "name": "US Department of Health & Human Services",
-    "profile_pic": "https://www.hhs.gov/sites/default/files/web/profile_pics/seal_blue_gold_hi_res.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/us-department-of-health-and-human-services.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the US Department of Health & Human Services, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -479,12 +479,12 @@
     "org": "hhs-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "7c50b56f-e8ac-4bab-bb77-e88ef2637387": {
     "name": "World Wide Human Geography Data Working Group",
-    "profile_pic": "http://wwhgd.org/sites/default/files/WWHGD_WorkingGroup_136pixel_Logo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/world-wide-human-geography-data-working-group.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the World Wide Human Geography Data Working Group, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -500,12 +500,12 @@
     "org": "wwhgd-nga-org",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "7cff86d0-0d45-4944-a4ba-4511805793bc": {
     "name": "Lake County, Illinois",
-    "profile_pic": "https://maps.lakecountyil.gov/output/logo/countyseal.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/lake-county-illinois.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from Lake County, Illinois, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -521,12 +521,12 @@
     "org": "lake-county-illinois",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "4d976f1e-ccb5-4dbe-aa98-9d2931fbd215": {
     "name": "Department of Defense",
-    "profile_pic": "http://www.foia.gov/profile_pics/logo-dod.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-defense.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Defense, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -542,12 +542,12 @@
     "org": "dod-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "29846409-fa62-4648-a3b9-12d071a2a5b2": {
     "name": "Pennsylvania Geospatial Data Clearinghouse",
-    "profile_pic": "https://weconservepa.wpengine.com/wp-content/uploads/2020/10/PennDot-300x159.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/pennsylvania-geospatial-data-clearinghouse.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Pennsylvania Geospatial Data Clearinghouse, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -563,12 +563,12 @@
     "org": "pennsylvania-geospatial-data-clearinghouse",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "8dc070a3-41fa-4e78-8680-a0b98d678fb5": {
     "name": "Federal Housing Finance Agency",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/US-FederalHousingFinanceAgency-Seal.svg/200px-US-FederalHousingFinanceAgency-Seal.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/federal-housing-finance-agency.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Federal Housing Finance Agency, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -584,12 +584,12 @@
     "org": "fhfa-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "e846364e-cb2f-4a9a-bcee-1f4f570d10e3": {
-    "name": "Allegheny County / City of Pittsburgh / Western PA Regional Data Center",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Seal_of_Pennsylvania.svg/1200px-Seal_of_Pennsylvania.svg.png",
+    "name": "Western Pennsylvania Regional Data Center",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/western-pennsylvania-regional-data-center.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Allegheny County / City of Pittsburgh / Western PA Regional Data Center, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -600,17 +600,17 @@
     "source_email": "info@example.com",
     "source_catalog": "data.gov",
     "favicon": "/assets/img/favicon.png",
-    "url": "http://allegheny-county-/-city-of-pittsburgh-/-western-pa-regional-data-center.dayda.org",
-    "slug": "allegheny-county-city-of-pittsburgh-western-pa-regional-data-center",
+    "url": "http://western-pennsylvania-regional-data-center.dayda.org",
+    "slug": "western-pennsylvania-regional-data-center",
     "org": "allegheny-county-city-of-pittsburgh-western-pa-regional-data-center",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "806cc6e7-ca17-42aa-8647-3d270679cfff": {
     "name": "University of Idaho",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/university-of-idaho.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the University of Idaho, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -626,12 +626,12 @@
     "org": "uidaho-edu",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "4455a74e-f5bd-4a7e-941e-9fe5a72eb882": {
     "name": "Department of Homeland Security",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/dhs.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-homeland-security.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Homeland Security, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -647,12 +647,12 @@
     "org": "dhs-gov",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "7306ea36-16be-415a-99a0-d1a15117b1ad": {
     "name": "Vermont Center for Geographic Information",
-    "profile_pic": "https://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/vermont-center-for-geographic-information.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the ermont Center for Geographic Information, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -668,12 +668,12 @@
     "org": "vcgi-org",
     "updated": 1,
     "dns": 1,
-    "template": "0",
+    "template": "1",
     "pages": 1
   },
   "4ec10b46-2787-4399-8a0e-c028ede73e0e": {
     "name": "State of North Dakota",
-    "profile_pic": "https://www.nd.gov/gis/apps/ndgis03f.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-north-dakota.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of North Dakota, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -690,11 +690,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "bf7b21fa-7288-4f2c-8a3f-b83903fbbe38": {
     "name": "Arlington County, VA",
-    "profile_pic": "https://arlingtonva.s3.amazonaws.com/wp-content/uploads/sites/16/2018/09/arlington_county_board_seal_JPG-1.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/arlington-county-va.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from Arlington County, VA, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -711,11 +711,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "a37a0d52-859a-47ef-a33d-7d81fd301431": {
     "name": "Fairfax County, Virginia",
-    "profile_pic": "https://www.fairfaxcounty.gov/resources/public/web/templates/profile_pics/interface/logo.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/fairfax-county-virginia.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from Fairfax County, Virginia, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -732,11 +732,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "b404edc2-c117-4d3e-99f7-3c29cc8cb50c": {
     "name": "Louisville Metro Government",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/en/d/db/200px-Louisville_Kentucky_seal.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/louisville-metro-government.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from Louisville Metro Government, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -753,11 +753,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "2a93bb49-8bc5-4d4c-875b-0c80974cd9fb": {
     "name": "City of Boise",
-    "profile_pic": "https://static.cityofboise.net/profile_pics/cob/logo/citylogo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-boise.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Boise, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -774,11 +774,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "bb10fdb9-d96f-4284-9a5f-9ed269d9dbcb": {
     "name": "Federal Communications Commission",
-    "profile_pic": "https://transition.fcc.gov/files/logos/fcc-logo_teal-on-white.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/federal-communications-commission.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Federal Communications Commission (FCC), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -795,11 +795,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "f8b1a6b3-a9bd-4f01-96ef-154082643353": {
     "name": "City of Austin",
-    "profile_pic": "https://images-na.ssl-images-amazon.com/images/I/51uS-FI1ZtL._AC_SX355_.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-austin.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Austin, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -816,11 +816,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "aa5f6cbd-87ca-4a1a-9df7-c9d0fb94401b": {
     "name": "City of Chesapeake",
-    "profile_pic": "http://gisweb.cityofchesapeake.net/identify/yourLogo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-chesapeake.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Chesapeake, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -837,11 +837,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "2efac508-2a39-46d4-8d0c-e034d17e928f": {
     "name": "State of Iowa",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Iowa-StateSeal.svg/1200px-Iowa-StateSeal.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-iowa.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of Iowa, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -858,11 +858,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "a496eda4-863a-4acb-9f2f-c652ba66ca40": {
     "name": "Town of Cary, North Carolina",
-    "profile_pic": "https://data.townofcary.org/assets/theme_profile_pic/townofcarybanner.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/town-of-cary-north-carolina.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Town of Cary, North Carolina, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -879,11 +879,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "cace522d-4bc1-47ca-a148-1b0598f8b3fd": {
     "name": "Florida Department of Environmental Protection",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/1/14/Florida_Department_of_Environmental_Protection.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/florida-department-of-environmental-protection.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Florida Department of Environmental Protection, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -900,11 +900,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "fd2d1d4a-6fc9-4010-a5be-154b4419fd1e": {
     "name": "Millennium Challenge Corporation",
-    "profile_pic": "https://assets.mcc.gov/profile_pics/profile_pic-mcc-signature-vertical-usa.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/millennium-challenge-corporation.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Millennium Challenge Corporation, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -921,11 +921,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "8571f574-7d3d-48f3-8cc7-af44048076a1": {
     "name": "City of New Orleans",
-    "profile_pic": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/1/2c/12c4eef3-0165-531e-9f54-3a5b533026b5/5dd72a703e92c.image.jpg?resize=1024%2C1026",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-new-orleans.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of New Orleans, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -942,11 +942,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "48600574-df7e-4625-a430-92d0b1883090": {
     "name": "Pension Benefit Guaranty Corporation",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/US-PensionBenefitGuarantyCorp-Logo.svg/1200px-US-PensionBenefitGuarantyCorp-Logo.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/pension-benefit-guaranty-corporation.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Pension Benefit Guaranty Corporation, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -963,11 +963,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "6f5c454f-8dd6-44dd-8d70-89f04303d273": {
     "name": "Wake County",
-    "profile_pic": "https://i.pinimg.com/236x/33/f8/83/33f8834e474f34e22b0929e95deafaa8--genealogy-seals.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/wake-county.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Wake County, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -984,11 +984,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "ea1a6413-9d41-4350-b935-2c25e0256bcf": {
     "name": "US International Trade Commission",
-    "profile_pic": "https://cdn.farmjournal.com/s3fs-public/styles/840x600/public/2021-02/usitc%20web.png?itok=wchZSqXQ",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/us-international-trade-commission.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the US International Trade Commission, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1005,11 +1005,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "d00c5cb7-d928-470d-88ff-2239928a3e98": {
     "name": "Centers for Disease Control and Prevention",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/US_CDC_logo.svg/440px-US_CDC_logo.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/centers-for-disease-control-and-prevention.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Centers for Disease Control and Prevention (CDC), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1026,11 +1026,11 @@
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "a65bf892-ca10-45e5-88f7-9cbaa4bdbfca": {
     "name": "Army Corps of Engineers, Department of the Army, Department of Defense",
-    "profile_pic": "http://www.usace.army.mil/Portals/2/usace_logo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/army-corps-of-engineers.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Army Corps of Engineers, Department of the Army, Department of Defense, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1041,17 +1041,17 @@
     "source_email": "info@example.com",
     "source_catalog": "data.gov",
     "favicon": "/assets/img/favicon.png",
-    "url": "http://army-corps-of-engineers-department-of-the-army-department-of-defense.dayda.org",
+    "url": "http://army-corps-of-engineers.dayda.org",
     "slug": "army-corps-of-engineers",
     "org": "usace-army-mil",
     "updated": 1,
     "dns": 1,
     "pages": 1,
-    "template": "0"
+    "template": "1"
   },
   "13e5b106-8f82-4b16-a11e-2f48f1f24238": {
     "name": "Securities and Exchange Commission",
-    "profile_pic": "https://www.sec.gov/files/sec-logo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/securities-and-exchange-commission.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Securities and Exchange Commission (SEC), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1072,7 +1072,7 @@
   },
   "5e4d7221-af33-40f5-bbed-78ae1dd8721e": {
     "name": "Federal Deposit Insurance Corporation",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/US-FDIC-Logo.svg/150px-US-FDIC-Logo.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/federal-deposit-insurance-corporation.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Federal Deposit Insurance Corporation (FDIC), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1093,7 +1093,7 @@
   },
   "6e73b22e-6cdd-495f-a092-6c36c559cce3": {
     "name": "Loudoun County, Virginia",
-    "profile_pic": "https://www.loudoun.gov/profile_pics/pages/N232/Loudoun%20County%20Seal%20-%20Web.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/loudoun-county-virginia.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from Loudoun County, Virginia, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1114,7 +1114,7 @@
   },
   "78ba40a2-fe4b-4a1d-84e9-28f38c253dbb": {
     "name": "Federal Trade Commission",
-    "profile_pic": "https://www.ftc.gov/system/files/attachments/our-seal/seal.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/federal-trade-commission.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Federal Trade Commission, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1135,7 +1135,7 @@
   },
   "4b9a2b4d-f9e1-4898-aa2c-32d13e44b5a1": {
     "name": "City of Tempe",
-    "profile_pic": "https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/09/TempeColorHorizontal_small.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-tempe.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Tempe, AZ, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1156,7 +1156,7 @@
   },
   "1136c336-b6c3-4f10-a57b-8b4d69458ae1": {
     "name": "Municipality of Anchorage",
-    "profile_pic": "https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/08/MOA.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/municipality-of-anchorage.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Municipality of Anchorage, AK, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1177,7 +1177,7 @@
   },
   "1c6d5c51-b881-484c-8f00-1ebd9fbbe527": {
     "name": "City of Ferndale, Michigan",
-    "profile_pic": "https://s3.us-east-2.amazonaws.com/ferndalemi-public/logo-Ferndale.svg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-ferndale-michigan.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Ferndale, Michigan, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1198,7 +1198,7 @@
   },
   "2cca5b33-6bfa-496a-895f-3301690bbc2c": {
     "name": "City of Providence",
-    "profile_pic": "https://data.providenceri.gov/api/assets/0D737DBB-91A0-4151-BF06-C34EEA7BE5D3?OpenDataHeader.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-providence.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Providence, RI, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1219,7 +1219,7 @@
   },
   "59164fef-8fab-42ea-98e9-4af51413bbe8": {
     "name": "Federal Election Commission",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Seal_of_the_United_States_Federal_Election_Commission.svg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/federal-election-commission.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Federal Election Commission (FEC), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1240,7 +1240,7 @@
   },
   "b80345aa-7868-4cce-97a5-d8a7599dcfd0": {
     "name": "Merit Systems Protection Board",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/US-MeritSystemsProtectionBoard-Seal.svg/200px-US-MeritSystemsProtectionBoard-Seal.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/merit-systems-protection-board.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the SMerit Systems Protection Board, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1261,7 +1261,7 @@
   },
   "ad042a79-d405-4cad-92dc-8c5a70028758": {
     "name": "City of Baton Rouge",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/sco/6/68/Baton-Rouge_seal.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-baton-rouge.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Baton Rouge, LA, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1282,7 +1282,7 @@
   },
   "bccbad82-abc4-4712-bd29-3e194e7a8042": {
     "name": "State of Washington",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Seal_of_Washington.svg/1200px-Seal_of_Washington.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-washington.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of Washington, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1303,7 +1303,7 @@
   },
   "0af4eecd-141b-41b3-9367-a5a51ce44b90": {
     "name": "State of Oregon",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Seal_of_Oregon.svg/1200px-Seal_of_Oregon.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-oregon.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of Oregon, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1324,7 +1324,7 @@
   },
   "870e0331-c577-42b4-bf32-6b5e239651a3": {
     "name": "State of Missouri",
-    "profile_pic": "https://www.sos.mo.gov/CMSImages/Publications/mo-seal.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-missouri.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of Missouri, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1345,7 +1345,7 @@
   },
   "b98a6f3b-552a-4826-931e-4594420f4596": {
     "name": "State of Maryland",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Seal_of_Maryland_%28reverse%29.svg/200px-Seal_of_Maryland_%28reverse%29.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-maryland.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of Maryland, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1366,7 +1366,7 @@
   },
   "23fadd55-de9c-44e6-8cea-b328f5eccf22": {
     "name": "Montgomery County of Maryland",
-    "profile_pic": "https://images.vector-images.com/119/montgomery_county_seal_n9069.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/montgomery-county-of-maryland.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from Montgomery County of Maryland, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1387,7 +1387,7 @@
   },
   "a706cca3-8032-4bcb-89c8-6f2d14fa1137": {
     "name": "City of Seattle",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/en/0/04/City_of_Seattle%E2%80%94Seal.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-seattle.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Seattle, WA, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1408,7 +1408,7 @@
   },
   "8998d957-b339-4d1c-959e-bd04cb4c3316": {
     "name": "Cook County of Illinois",
-    "profile_pic": "https://legacy.cookcountyil.gov/secretary/CookColorSeal.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/cook-county-of-illinois.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from Cook County of Illinois, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1429,7 +1429,7 @@
   },
   "d737f173-fa1c-4f41-a363-6e2d5a8e7256": {
     "name": "King County, Washington",
-    "profile_pic": "https://kingcounty.gov/~/media/about/logo/homelogo.ashx?la=en",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/king-county-washington.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from King County, Washington, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1450,7 +1450,7 @@
   },
   "7ba1dcf3-0855-491e-bd62-1625f38972b9": {
     "name": "City of Chicago",
-    "profile_pic": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages5/1905sealofchicago.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-chicago.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Chicago, IL, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1471,7 +1471,7 @@
   },
   "7f3c6c7a-ef5f-4ee0-87ce-a0300ba767d5": {
     "name": "City of San Francisco",
-    "profile_pic": "https://everykitcounts.org/wp-content/uploads/2014/10/461.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-san-francisco.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of San Francisco, CA, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1492,7 +1492,7 @@
   },
   "16980d1c-5e8f-4188-b962-42446f2d3f63": {
     "name": "Department of Commerce",
-    "profile_pic": "http://www.vos.noaa.gov/MWL/aug_10/profile_pics/doc_logo_xparent.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-commerce.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Commerce, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1513,7 +1513,7 @@
   },
   "857030e3-3534-4a6d-b926-c729dfb79147": {
     "name": "Election Assistance Commission",
-    "profile_pic": "https://www.eac.gov/assets/1/6/EAC-logo-popV2.png ",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/election-assistance-commission.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Election Assistance Commission, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1534,7 +1534,7 @@
   },
   "0bb96132-10b6-4c20-908f-c07ebda09534": {
     "name": "City of Sioux Falls",
-    "profile_pic": "http://www.siouxfalls.org/-/media/profile_pics/Logos/City_SF_logo.ashx?h=87&la=en&w=304&hash=E6D8A542D64FD4A87277F2EAB524933FAB586EF1",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-sioux-falls.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Sioux Falls, SD, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1555,7 +1555,7 @@
   },
   "c0e9f307-e44b-4de2-bb46-e8045d0990db": {
     "name": "State of Connecticut",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Seal_of_Connecticut.svg/1200px-Seal_of_Connecticut.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-connecticut.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of Connecticut, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1576,7 +1576,7 @@
   },
   "8148853c-d386-4705-a1c4-41c3212f78e4": {
     "name": "National Archives and Records Administration",
-    "profile_pic": "http://www.archives.gov/global-profile_pics/logo.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/national-archives-and-records-administration.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the National Archives and Records Administration, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1597,7 +1597,7 @@
   },
   "1b4994eb-7f70-4453-8c75-99bf94b2d42c": {
     "name": "City of Hartford",
-    "profile_pic": "https://www.crwflags.com/fotw/images/u/us-ct-hf).gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-hartford.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Hartford, CT, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1618,7 +1618,7 @@
   },
   "9757f763-7a9b-4ea8-92ae-505652fe7287": {
     "name": "National Endowment for the Humanities",
-    "profile_pic": "http://www.neh.gov/files/neh_at_logo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/national-endowment-for-the-humanities.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the National Endowment for the Humanities, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1639,7 +1639,7 @@
   },
   "6ace6c7b-5784-4b98-abf1-b2ec8a6008d3": {
     "name": "US Equal Employment Opportunity Commission",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Seal_of_the_United_States_Equal_Employment_Opportunity_Commission.svg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/us-equal-employment-opportunity-commission.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the US Equal Employment Opportunity Commission, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1660,7 +1660,7 @@
   },
   "92803bce-3fa9-4dfb-8b70-3baca3835f0c": {
     "name": "State of Minnesota",
-    "profile_pic": "https://statesymbolsusa.org/sites/statesymbolsusa.org/files/symbol-place-images/colorversionminnesotaseal.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-minnesota.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of Minnesota, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1681,7 +1681,7 @@
   },
   "68cc50c9-d31a-4db1-a666-dcdbb86b33d5": {
     "name": "City of Honolulu",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Seal_of_Honolulu%2C_Hawaii.svg/1200px-Seal_of_Honolulu%2C_Hawaii.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-honolulu.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Honolulu, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1702,7 +1702,7 @@
   },
   "aa84d2f5-8a8a-4ae6-a7a6-c9a47ab8dcd5": {
     "name": "Georgia Tech Center for GIS College of Architecture",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Georgia_Tech_seal.svg/250px-Georgia_Tech_seal.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/georgia-tech-center-for-gis-college-of-architecture.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Georgia Tech Center for GIS College of Architecture, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1723,7 +1723,7 @@
   },
   "6cd4f2ba-1583-469c-a6f0-95ba585aeb7e": {
     "name": "Department of Labor",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/labor.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-labor.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of Labor, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1744,7 +1744,7 @@
   },
   "842b8561-cf24-49cf-b901-66c6932a392b": {
     "name": "Small Business Administration",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/sba.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/small-business-administration.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Small Business Administration, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1765,7 +1765,7 @@
   },
   "d70f1e1b-8a88-4bb2-bca5-29b26408a2ce": {
     "name": "State of Oklahoma",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Seal_of_Oklahoma.svg/1200px-Seal_of_Oklahoma.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/state-of-oklahoma.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the State of Oklahoma, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1786,7 +1786,7 @@
   },
   "eca91a93-a8a2-48b9-a949-5003b40b9012": {
     "name": "Office of Personnel Management",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/opm.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/office-of-personnel-management.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Office of Personnel Management, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1807,7 +1807,7 @@
   },
   "76081985-fac4-4ce8-8e1d-43c5cd268ec5": {
     "name": "Institute of Museum and Library Services",
-    "profile_pic": "https://www.imls.gov/sites/default/files/imls_logo_2c.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/institute-of-museum-and-library-services.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Institute of Museum and Library Services, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1828,7 +1828,7 @@
   },
   "2d7e3c15-e0cb-4857-b4d5-40ed6e6d7954": {
     "name": "General Services Administration",
-    "profile_pic": "2021-01-21-204905.279111240px-US-GeneralServicesAdministration-Logo.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/general-services-administration.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the General Services Administration, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1849,7 +1849,7 @@
   },
   "441a7317-0631-4d27-b8bb-dcfaa6be5915": {
     "name": "Department of State",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/state.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-state.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of State, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1870,7 +1870,7 @@
   },
   "a543287f-0731-4645-b100-a29f4f39be97": {
     "name": "Department of the Treasury",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Seal_of_the_United_States_Department_of_the_Treasury.svg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/department-of-the-treasury.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Department of the Treasury, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1891,7 +1891,7 @@
   },
   "d0ddb350-dd27-46fd-9e81-234374bf0607": {
     "name": "Consumer Financial Protection Bureau",
-    "profile_pic": "https://raw.githubusercontent.com/GSA/logo/master/cfpb.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/consumer-financial-protection-bureau.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Consumer Financial Protection Bureau, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1912,7 +1912,7 @@
   },
   "07daac3b-dc2c-45b0-b754-f7ad255a30ab": {
     "name": "City of Somerville",
-    "profile_pic": "https://www.somervillema.gov/sites/default/files/city-of-somerville-color-seal.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/city-of-somerville.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the City of Somerville, MA, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1933,7 +1933,7 @@
   },
   "22a3a62c-7bfa-4264-be86-6cc1c864d881": {
     "name": "Railroad Retirement Board",
-    "profile_pic": "https://raw.github.com/GSA/logo/master/rrb.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/railroad-retirement-board.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Railroad Retirement Board, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1954,7 +1954,7 @@
   },
   "ae156ef5-7869-4748-9ad2-f103cf02a218": {
     "name": "Federal Emergency Management Agency",
-    "profile_pic": "http://ep4u.sm4.biz/communities/7/004/008/908/237/profile_pics/4543640096_pre.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/federal-emergency-management-agency.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Federal Emergency Management Agency (FEMA), providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1975,7 +1975,7 @@
   },
   "77ade652-dece-4e18-b71b-b5e9be8c86c2": {
     "name": "Federal Geographic Data Committee",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/US-FederalGeographicDataCommittee-Logo.svg/220px-US-FederalGeographicDataCommittee-Logo.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/federal-geographic-data-committee.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Federal Geographic Data Committee, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -1996,7 +1996,7 @@
   },
   "e9d6fde3-a97c-46c5-ad7d-51579264b7f1": {
     "name": "WV GIS Technical Center",
-    "profile_pic": "https://wvgis.wvu.edu/profile_pics/title.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/wv-gis-technical-center.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the WV GIS Technical Center, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -2017,7 +2017,7 @@
   },
   "9066c990-6db8-4569-a517-6994bba34535": {
     "name": "Office of Navajo and Hopi Indian Relocation",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Flag_of_the_Hopi_Reservation.svg/1200px-Flag_of_the_Hopi_Reservation.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/office-of-navajo-and-hopi-indian-relocation.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Office of Navajo and Hopi Indian Relocation, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -2038,7 +2038,7 @@
   },
   "6a3f935c-da6f-47f6-a386-1c76afd0b1e0": {
     "name": "Earth Data Analysis Center, University of New Mexico",
-    "profile_pic": "https://edac.unm.edu/wordpress/wp-content/uploads/2012/07/EDAC-Banner.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/earth-data-analysis-center-university-of-new-mexico.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Earth Data Analysis Center, University of New Mexico, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -2059,7 +2059,7 @@
   },
   "9cd95192-4220-45cd-8d96-f720d58643bd": {
     "name": "US Consumer Product Safety Commission",
-    "profile_pic": "http://www.recalls.gov/cpsc.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/us-consumer-product-safety-commission.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the US Consumer Product Safety Commission, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -2080,7 +2080,7 @@
   },
   "176f2a2d-ca9b-41f2-8df3-d93096ebdb85": {
     "name": "National Institute of Standards and Technology",
-    "profile_pic": "https://forensicstats.org/wp-content/uploads/2018/01/nist-big.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/national-institute-of-standards-and-technology.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the National Institute of Standards and Technology, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -2101,7 +2101,7 @@
   },
   "a7bd26d6-fc76-4ee4-b30b-8a0f075d0be8": {
     "name": "Federal Retirement Thrift Investment Board",
-    "profile_pic": "https://www.frtib.gov/_files/profile_pics/logo.jpg",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/federal-retirement-thrift-investment-board.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the Federal Retirement Thrift Investment Board, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -2122,7 +2122,7 @@
   },
   "df1ed85f-b5a6-4825-96cd-8f53555b5a5a": {
     "name": "National Credit Union Administration",
-    "profile_pic": "https://www.ncua.gov/files/graphics/ncua_seal_blue_web.gif",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/national-credit-union-administration.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the National Credit Union Administration, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -2143,7 +2143,7 @@
   },
   "ddcdcaea-2e39-4b3d-8a85-6d8de2b243b9": {
     "name": "National Transportation Safety Board",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seal_of_the_United_States_National_Transportation_Safety_Board.svg/1200px-Seal_of_the_United_States_National_Transportation_Safety_Board.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/national-transportation-safety-board.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from the National Transportation Safety Board, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -2164,7 +2164,7 @@
   },
   "a2ea361e-1350-4df1-8d61-4c326b3394ae": {
     "name": "OpenTopography",
-    "profile_pic": "https://cloud.sdsc.edu/v1/AUTH_opentopography/www/profile_pics/otlogos/opentopo_logo.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/opentopography.png",
     "published": 0,
     "repo": 1,
     "description": "This is a catalog of datasets organized and made more accessible from OpenTopography, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
@@ -2185,7 +2185,7 @@
   },
   "0349e8bf-a476-4e31-b97e-cbcab1dec4cb": {
     "name": "Office of Management and Budget",
-    "profile_pic": "https://www.whitehouse.gov/wp-content/uploads/2017/08/eop-omb.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/office-of-management-and-budget.png",
     "published": 0,
     "description": "This is a catalog of datasets organized and made more accessible from the Office of Management and Budget, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
     "about": "This is all about the entity.",
@@ -2202,11 +2202,11 @@
     "updated": 1,
     "repo": 1,
     "pages": 1,
-    "template": "0"
+    "template": 1
   },
   "73f20c4f-0d83-4935-95a5-034c18927361": {
     "name": "Export-Import Bank of the US",
-    "profile_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Seal_of_the_United_States_Export-Import_Bank.svg/721px-Seal_of_the_United_States_Export-Import_Bank.svg.png",
+    "profile_pic": "https://directory.dayda.org/assets/img/entities/export-import-bank-of-the-us.png",
     "published": 0,
     "description": "This is a catalog of datasets organized and made more accessible from the Export-Import Bank of the US, providing simple dowloadable CSV and JSON files, as well as Postman Collections you can use as part of workflows and other automation.",
     "about": "This is all about the entity.",
@@ -2222,6 +2222,6 @@
     "updated": 1,
     "repo": 1,
     "pages": 1,
-    "template": "0"
+    "template": 1
   }
 }
